@@ -1,0 +1,69 @@
+@model User
+@{
+    
+    ViewData["Title"] = "Личный кабинет";
+    var my_id = Context.Session.GetInt32("id");
+    var my_name = Context.Session.GetString("username");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сувенирный магазин</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body class="debug_center_items">
+    <header>
+        <h1>Личный кабинет</h1>
+    </header>
+    <main class="ProfileViewer">
+        <div class="mb-3 text-primary">
+            <i class="bi bi-person-circle" style="font-size: 3rem;"></i>
+        </div>
+        <div class="mb-2 text-start">
+            <span class="text-muted small d-block">ID Пользователя:</span>
+            <strong class="text-secondary font-monospace">@Model.id</strong> 
+        </div>
+        <div class="mb-3 text-start">
+            <span class="text-muted small d-block">Имя пользователя:</span>
+            <strong class="text-dark fs-5">@Model.Username</strong>
+        </div>
+        <div class="mb-3 text-start">
+            <span class="text-muted small d-block">Почта пользователя:</span>
+            <strong class="text-dark fs-5">@Model.Email</strong>
+        </div>
+        <hr class="text-muted my-3" />
+        <li class="profile_option">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="My_Orders">Просмотреть мои заказы.</a>
+        </li><br>
+        @if(Model.Username == "Administrator_man"){
+            <li class="profile_option">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="CreateTovar">Добавить товары на сайт.</a>
+            </li><br>
+            <li class="profile_option">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Orders">Просмотреть все заказы.</a>
+            </li>
+        }
+        
+    </main>
+    <footer>
+        <p>Контакты: shop@example.com</p>
+        <div class="support-form">
+            <h2>Оставьте заявку в службу поддержки</h2>
+            <p>Мы ценим каждого покупателя и всегда рады ответить на ваши вопросы и пожелания!</p>
+            <form action="#" method="post">
+                <label for="name">Ваше имя:</label>
+                <input type="text" id="name" name="name" placeholder="введите ваше имя" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="введите ваш email" required>
+                <label for="subject">Тема обращения:</label>
+                <input type="text" id="subject" name="subject" placeholder="Тема обращения" required>
+                <label for="message">Ваше обращение:</label>
+                <textarea id="message" name="message" rows="5" placeholder="Опишите суть вопроса или предложения" required></textarea>
+                <button type="submit">Отправить заявку</button>
+            </form>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,28 @@
+@model User
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сувенирный магазин</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+<div class="support-form">
+    <h2>Регистрация</h2>
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <label>Логин:</label>
+            <input type="text" asp-for="Username" />
+            <label>Email:</label>
+            <input type="email" asp-for="Email" />
+            <label>Пароль:</label>
+            <input type="password" asp-for="Password" />
+            <label>Повторите пароль:</label>
+            <input type="password" asp-for="Repeat_password" />
+            <span asp-validation-for="Repeat_password" class="text-danger"></span>
+        <button type="submit">Зарегистрироваться</button>
+    </form>
+</div>
+</body>
+</html>

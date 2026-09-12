@@ -1,0 +1,440 @@
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.AssemblyReference.cache
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfoInputs.cache
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfo.cs
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.CoreCompileInputs.cache
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cache
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cs
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\appsettings.json
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.runtime.json
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.endpoints.json
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\SouvenirShop.exe
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\SouvenirShop.deps.json
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\SouvenirShop.runtimeconfig.json
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\SouvenirShop.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\SouvenirShop.pdb
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\SouvenirShop\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\scopedcss\bundle\SouvenirShop.styles.css
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\scopedcss\projectbundle\SouvenirShop.bundle.scp.css
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\zyq99s95hy-61n19gt1b8.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\qyjsk4kum1-xtxxf3hu2r.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\6759evvq79-bqjiyaj88i.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\kowlkxipx8-c2jlpeoesf.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\31gigdmyzg-erw9l3u2r3.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\rlr2xj59xz-aexeepp0ev.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\otmi08jqvh-d7shbmvgxk.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\dl0qvmk8sq-ausgxo2sd3.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\uvttn53wb8-k8d9w2qqmf.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\250bh9f4qw-cosvhxvwiu.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\i4tk6s495c-ub07r2b239.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\uqu7go20ou-fvhpjtyr6v.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\9m15zn97t6-b7pk76d08c.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\2qyldoto4w-fsbi9cje9m.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\rntu84w4h9-rzd6atqjts.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\14db3snp7d-ee0r1s7dh0.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\i97o2l9imw-dxx9fxp4il.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\gi26mrty3z-jd9uben2k1.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\m9bier926m-khv3u5hwcm.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\0lqbnkdqkz-r4e9w2rdcm.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\d6rd1yl31z-lcd1t2u6c8.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\3qiingdaji-c2oey78nd0.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\onct537u2j-tdbxkamptv.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\p14xpmth32-j5mq2jizvt.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\woyoe7p71y-06098lyss8.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\6zubzkurpx-nvvlpmu67g.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\3o816dmv7y-s35ty4nyc5.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\260b91e0fd-pj5nd1wqec.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\uj7ia4z3l1-46ein0sx1k.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\i92406fgvo-v0zj4ognzu.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\4l42eo6n5u-37tfw0ft22.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\3ckmfyu6cu-hrwsygsryq.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\v6yyavztr7-pk9g2wxc8p.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\762mqad2x5-ft3s53vfgj.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\9wi4aulyur-6cfz1n2cew.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\i8vop3uipw-6pdc2jztkx.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\ln4kqy242t-493y06b0oq.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\bthqq7c709-iovd86k7lj.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\eoca7ud727-vr1egmr9el.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\28nbhl0dtg-kbrnm935zg.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\id7wc752un-jj8uyg4cgr.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\3zsin07rn1-y7v9cxd14o.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\hvjua0kqfa-notf2xhcfb.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\ngrbjzomnt-h1s4sie4z3.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\bj2xw41das-63fj8s7r0e.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\vjg9nxqa0d-0j3bgjxly4.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\r1ushzbude-47otxtyo56.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\sfzjhirn16-4v8eqarkd7.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\9mf2gl6zhx-356vix0kms.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\e72qvp9lee-83jwlth58m.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\yebhdy7ri2-mrlpezrjn3.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\i5bqrqwxve-lzl9nlhx6b.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\djo8lpnuu7-ag7o75518u.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\v1x1c8pteu-x0q3zqp4vz.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\l8kem6edr2-0i3buxo5is.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\g842cdn2sa-o1o13a6vjx.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\t5mv8yzqnx-ttgo8qnofa.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\lzr6vydwfs-2z0ns9nrw6.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\lhtsza46g5-muycvpuwrr.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\2kcm1p79v8-87fc7y1x7t.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\6dvcoi69iv-mlv21k5csn.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\2zrdg0ltle-ln8097gcmo.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\jetj376nxf-ln8097gcmo.gz
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\Souvenir.18C357E6.Up2Date
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.dll
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\refint\SouvenirShop.dll
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.pdb
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\SouvenirShop.genruntimeconfig.cache
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\ref\SouvenirShop.dll
+C:\Users\User\SouvenirShop\obj\Debug\net9.0\compressed\1k8ek2zt59-dfiul4841q.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\appsettings.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.runtime.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.endpoints.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\SouvenirShop.exe
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\SouvenirShop.deps.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\SouvenirShop.runtimeconfig.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\SouvenirShop.pdb
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.AssemblyReference.cache
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfoInputs.cache
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfo.cs
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cache
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cs
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\scopedcss\bundle\SouvenirShop.styles.css
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\scopedcss\projectbundle\SouvenirShop.bundle.scp.css
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\zyq99s95hy-61n19gt1b8.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\qyjsk4kum1-xtxxf3hu2r.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\6759evvq79-bqjiyaj88i.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\kowlkxipx8-c2jlpeoesf.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\31gigdmyzg-erw9l3u2r3.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\rlr2xj59xz-aexeepp0ev.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\otmi08jqvh-d7shbmvgxk.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\dl0qvmk8sq-ausgxo2sd3.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\uvttn53wb8-k8d9w2qqmf.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\250bh9f4qw-cosvhxvwiu.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\i4tk6s495c-ub07r2b239.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\uqu7go20ou-fvhpjtyr6v.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\9m15zn97t6-b7pk76d08c.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\2qyldoto4w-fsbi9cje9m.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\rntu84w4h9-rzd6atqjts.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\14db3snp7d-ee0r1s7dh0.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\i97o2l9imw-dxx9fxp4il.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\gi26mrty3z-jd9uben2k1.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\m9bier926m-khv3u5hwcm.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\0lqbnkdqkz-r4e9w2rdcm.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\d6rd1yl31z-lcd1t2u6c8.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\3qiingdaji-c2oey78nd0.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\onct537u2j-tdbxkamptv.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\p14xpmth32-j5mq2jizvt.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\woyoe7p71y-06098lyss8.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\6zubzkurpx-nvvlpmu67g.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\3o816dmv7y-s35ty4nyc5.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\260b91e0fd-pj5nd1wqec.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\uj7ia4z3l1-46ein0sx1k.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\i92406fgvo-v0zj4ognzu.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\4l42eo6n5u-37tfw0ft22.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\3ckmfyu6cu-hrwsygsryq.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\v6yyavztr7-pk9g2wxc8p.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\762mqad2x5-ft3s53vfgj.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\9wi4aulyur-6cfz1n2cew.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\i8vop3uipw-6pdc2jztkx.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\ln4kqy242t-493y06b0oq.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\bthqq7c709-iovd86k7lj.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\eoca7ud727-vr1egmr9el.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\28nbhl0dtg-kbrnm935zg.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\id7wc752un-jj8uyg4cgr.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\3zsin07rn1-y7v9cxd14o.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\hvjua0kqfa-notf2xhcfb.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\ngrbjzomnt-h1s4sie4z3.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\bj2xw41das-63fj8s7r0e.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\vjg9nxqa0d-0j3bgjxly4.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\r1ushzbude-47otxtyo56.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\sfzjhirn16-4v8eqarkd7.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\9mf2gl6zhx-356vix0kms.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\e72qvp9lee-83jwlth58m.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\yebhdy7ri2-mrlpezrjn3.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\i5bqrqwxve-lzl9nlhx6b.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\djo8lpnuu7-ag7o75518u.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\v1x1c8pteu-x0q3zqp4vz.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\l8kem6edr2-0i3buxo5is.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\g842cdn2sa-o1o13a6vjx.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\t5mv8yzqnx-ttgo8qnofa.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\lzr6vydwfs-2z0ns9nrw6.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\lhtsza46g5-muycvpuwrr.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\2kcm1p79v8-87fc7y1x7t.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\6dvcoi69iv-mlv21k5csn.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\2zrdg0ltle-ln8097gcmo.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\jetj376nxf-ln8097gcmo.gz
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets\msbuild.SouvenirShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets\msbuild.SouvenirShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets\msbuild.build.SouvenirShop.props
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SouvenirShop.props
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SouvenirShop.props
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\Souvenir.18C357E6.Up2Date
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\refint\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.pdb
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.genruntimeconfig.cache
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\ref\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\SouvenirShop.sourcelink.json
+C:\Users\Smart\Desktop\Курсовая\SouvenirShop\obj\Debug\net9.0\compressed\1k8ek2zt59-3nz0b4lrcn.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\appsettings.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.runtime.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.endpoints.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\SouvenirShop.exe
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\SouvenirShop.deps.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\SouvenirShop.runtimeconfig.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\SouvenirShop.pdb
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.AssemblyReference.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfoInputs.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfo.cs
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cs
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.sourcelink.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\scopedcss\bundle\SouvenirShop.styles.css
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\scopedcss\projectbundle\SouvenirShop.bundle.scp.css
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\Souvenir.18C357E6.Up2Date
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\refint\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.pdb
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\SouvenirShop.genruntimeconfig.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\ref\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\k5gpbs4vr2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\z1lpmtzgk2-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\dets91j5wk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\ecj0wvhdr0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\sdwyyhpaet-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\e5ytvvn07x-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\ayb3svm1bh-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\j58g9d3wp2-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\89oiy4hju6-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\12ae698cah-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\xmmb07zdfw-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\vhvz7lf04y-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\rtg3226xhl-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\fwtr591go3-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\kinr5l9x9v-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\d4qctegnno-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\nbwngvyrng-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\alq2sp9kdt-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\esyllwet0b-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\ise5q5g9a7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\clkh2jxl3w-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\wb17hp6byl-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\amsbumak9d-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\9rlglmj9bu-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\vp2fb3bcg8-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\pe7skbqfl4-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\k6qjumq13b-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\kcmge3gn30-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\0i9j2ww2if-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\2o97dxx5u5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\asu2y13v0m-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\wckpr74pd8-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\l6ca0462ph-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\yc1d1jwgrn-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\uosgosltoq-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\cq66jj93gq-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\nrbdpllj0t-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\to4etsndc8-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\57lyo8sbq9-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\af6yuib0wg-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\sm841yu7p2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\gvr33zlu5p-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\wq2wuis7g8-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\ruw2pkuefs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\iggdinrh5l-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\cb7blba9z7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\x203qv8ixd-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\v4r8rpv6zg-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\oemmu6jph6-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\4danczgk4i-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\jqlmx63fuz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\3utx8fqzzs-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\tuwug3eyot-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\a147epov6k-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\xnzths91pk-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\ht7iq0yc7w-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\w79re3a8zz-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\sh4beljkfy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\5owrzm0vb3-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\8wtzq2et6e-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\xtofsmfoxw-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\umipp3dpgb-{0}-k214bv7rcf-k214bv7rcf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\9zac7csbh4-{0}-k214bv7rcf-k214bv7rcf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Тест\SouvenirShop\obj\Debug\net9.0\compressed\otafpj772j-{0}-03hy3ytrwb-03hy3ytrwb.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\appsettings.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.endpoints.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\SouvenirShop.staticwebassets.runtime.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\SouvenirShop.exe
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\SouvenirShop.deps.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\SouvenirShop.runtimeconfig.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\SouvenirShop.pdb
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.AssemblyReference.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfoInputs.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.AssemblyInfo.cs
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.RazorAssemblyInfo.cs
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.sourcelink.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\scopedcss\bundle\SouvenirShop.styles.css
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\scopedcss\projectbundle\SouvenirShop.bundle.scp.css
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\k5gpbs4vr2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\z1lpmtzgk2-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\dets91j5wk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\ecj0wvhdr0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\sdwyyhpaet-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\e5ytvvn07x-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\ayb3svm1bh-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\j58g9d3wp2-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\89oiy4hju6-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\12ae698cah-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\xmmb07zdfw-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\vhvz7lf04y-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\rtg3226xhl-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\fwtr591go3-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\kinr5l9x9v-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\d4qctegnno-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\nbwngvyrng-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\alq2sp9kdt-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\esyllwet0b-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\ise5q5g9a7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\clkh2jxl3w-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\wb17hp6byl-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\amsbumak9d-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\9rlglmj9bu-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\vp2fb3bcg8-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\pe7skbqfl4-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\k6qjumq13b-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\kcmge3gn30-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\0i9j2ww2if-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\2o97dxx5u5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\asu2y13v0m-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\wckpr74pd8-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\l6ca0462ph-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\yc1d1jwgrn-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\uosgosltoq-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\cq66jj93gq-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\nrbdpllj0t-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\to4etsndc8-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\57lyo8sbq9-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\af6yuib0wg-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\sm841yu7p2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\gvr33zlu5p-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\wq2wuis7g8-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\ruw2pkuefs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\iggdinrh5l-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\cb7blba9z7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\x203qv8ixd-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\v4r8rpv6zg-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\oemmu6jph6-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\4danczgk4i-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\jqlmx63fuz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\3utx8fqzzs-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\tuwug3eyot-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\a147epov6k-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\xnzths91pk-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\ht7iq0yc7w-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\w79re3a8zz-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\sh4beljkfy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\5owrzm0vb3-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\8wtzq2et6e-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\xtofsmfoxw-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\umipp3dpgb-{0}-k214bv7rcf-k214bv7rcf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\9zac7csbh4-{0}-k214bv7rcf-k214bv7rcf.gz
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\Souvenir.18C357E6.Up2Date
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\refint\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.pdb
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\SouvenirShop.genruntimeconfig.cache
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\ref\SouvenirShop.dll
+C:\Users\Smart\Desktop\Курсовая\Курсовая - итог\Диплом Баженов\SouvenirShop\obj\Debug\net9.0\compressed\otafpj772j-{0}-j8h47116aj-j8h47116aj.gz

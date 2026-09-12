@@ -1,0 +1,62 @@
+@model IEnumerable<Souvenir>
+@{
+    ViewData["Title"] = "Корзина";
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сувенирный магазин</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <header>
+        <h1>Корзина</h1><br>
+        @if(Model.Count() >= 1){
+            <form method="post" action="/Home/Create_order">
+                <input type="hidden" name="Id" value="1" />
+                <button type="submit" class="profile_option">Сделать заказ</button>
+            </form>
+        }
+    </header>
+    <main>
+        @foreach (Souvenir souvenir in Model)
+        {
+            <div class="card">
+                <img src="@souvenir.ImageUrl" alt="@souvenir.ImageUrl">
+                <h2>@souvenir.name</h2>
+                <p>Цена @souvenir.Price руб.</p>
+                <p>Описание: @souvenir.Description</p>
+                <form method="post" action="/Home/RemoveObjectToList">
+                    <input type="hidden" name="Id" value="@souvenir.id" />
+                    <button type="submit" class="profile_option">Убрать из корзины</button>
+                </form>
+            </div>
+        }
+    </main>
+    <footer>
+        <p>Контакты: shop@example.com</p>
+        <div class="support-form">
+            <h2>Оставьте заявку в службу поддержки</h2>
+            <p>Мы ценим каждого покупателя и всегда рады ответить на ваши вопросы и пожелания!</p>
+
+            <form action="#" method="post">
+                <label for="name">Ваше имя:</label>
+                <input type="text" id="name" name="name" placeholder="введите ваше имя" required>
+
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="введите ваш email" required>
+
+                <label for="subject">Тема обращения:</label>
+                <input type="text" id="subject" name="subject" placeholder="Тема обращения" required>
+
+                <label for="message">Ваше обращение:</label>
+                <textarea id="message" name="message" rows="5" placeholder="Опишите суть вопроса или предложения" required></textarea>
+            
+                <button type="submit">Отправить заявку</button>
+            </form>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /bin/
+Disallow: /obj/
+Disallow: /wwwroot/
+
+Disallow: /Login/
+Disallow: /Register/
+Disallow: /Account/

@@ -1,0 +1,56 @@
+@model Souvenir
+@{
+    ViewData["Title"] = "Создание товара";
+    var my_id = Context.Session.GetInt32("id");
+    var my_name = Context.Session.GetString("username");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сувенирный магазин</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body class="debug_center_items">
+    <header>
+        <h1>Личный кабинет</h1>
+    </header>
+    <main class="ProfileViewer">
+        <div class="support-form">
+        <h1>Добавление товара</h1>
+        @if(my_name == "Administrator_man"){
+        <form asp-controller="Home" asp-action="Add_Tovar_to_site" method="post" enctype="multipart/form-data">
+            <label for="name">Название товара:</label>
+            <input type="text" id="name" name="name" placeholder="введите название" required>
+            <label for="price">Цена товара:</label>
+            <input type="number" id="price" name="price" placeholder="введите цену товара" required>
+            <label for="description">Описание товара:</label>
+            <textarea id="description" name="description" rows="5" placeholder="Кратко опишите суть товара." required></textarea>
+            <label asp-for="ImageFile">Фотография товара</label>
+            <input asp-for="ImageFile" type="file" accept="image/*" class="form-input" />
+            <button type="submit">Добавить</button>
+        </form>
+        }
+        </div>
+    </main>
+    <footer>
+        <p>Контакты: shop@example.com</p>
+        <div class="support-form">
+            <h2>Оставьте заявку в службу поддержки</h2>
+            <p>Мы ценим каждого покупателя и всегда рады ответить на ваши вопросы и пожелания!</p>
+            <form action="#" method="post">
+                <label for="name">Ваше имя:</label>
+                <input type="text" id="name" name="name" placeholder="введите ваше имя" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="введите ваш email" required>
+                <label for="subject">Тема обращения:</label>
+                <input type="text" id="subject" name="subject" placeholder="Тема обращения" required>
+                <label for="message">Ваше обращение:</label>
+                <textarea id="message" name="message" rows="5" placeholder="Опишите суть вопроса или предложения" required></textarea>
+                <button type="submit">Отправить заявку</button>
+            </form>
+        </div>
+    </footer>
+</body>
+</html>

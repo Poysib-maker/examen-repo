@@ -1,0 +1,54 @@
+@model IEnumerable<Order>
+@{
+    ViewData["Title"] = "Мои Заказы";
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сувенирный магазин</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <header>
+        <h1>Ваши заказы</h1>
+    </header>
+    <main>
+        @foreach (Order order in Model)
+        {
+            <div class="card">
+                <p>ID заказа: @order.id</p>
+                <p>Статус заказа:<br> @order.Order_status</p>
+                <form method="post" action="/Home/View_order" class="add-remove">
+                    <input type="hidden" name="Id" value="@order.id" />
+                    <button type="submit" class="profile_option">Посмотреть содержимое заказа</button>
+                </form>
+            </div>
+        }
+    </main>
+    <footer>
+        <p>Контакты: shop@example.com</p>
+        <div class="support-form">
+            <h2>Оставьте заявку в службу поддержки</h2>
+            <p>Мы ценим каждого покупателя и всегда рады ответить на ваши вопросы и пожелания!</p>
+
+            <form action="#" method="post">
+                <label for="name">Ваше имя:</label>
+                <input type="text" id="name" name="name" placeholder="введите ваше имя" required>
+
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="введите ваш email" required>
+
+                <label for="subject">Тема обращения:</label>
+                <input type="text" id="subject" name="subject" placeholder="Тема обращения" required>
+
+                <label for="message">Ваше обращение:</label>
+                <textarea id="message" name="message" rows="5" placeholder="Опишите суть вопроса или предложения" required></textarea>
+            
+                <button type="submit">Отправить заявку</button>
+            </form>
+        </div>
+    </footer>
+</body>
+</html>
